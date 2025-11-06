@@ -34,10 +34,10 @@ Este proyecto es un **sistema de gestión de biblioteca** desarrollado con **Spr
 ## 🧩 Diagramas del Proyecto
 
 ### 📘 Diagrama de Clases
-![Diagrama de Clases](ruta/a/tu/diagrama_clases.png)
+![Diagrama de Clases] sistema-Biblioteca-master/Diagrama Biblioteca.png
 
 ### 🎯 Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](ruta/a/tu/diagrama_casos_uso.png)
+![Diagrama de Caso de Uso] sistema-Biblioteca-master/Imagen del Diagrama de Caso de Uso.png
 
 > 📌 *Guarda tus diagramas en la carpeta `/resources/static/img/` o súbelos al repositorio y actualiza las rutas en los enlaces de arriba.*
 
